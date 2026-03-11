@@ -1,4 +1,4 @@
-//DOM ids
+//DOM ids -here
 function $(id) {
   return document.getElementById(id);
 } 
